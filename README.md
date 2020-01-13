@@ -2,4 +2,4 @@
 
 ![Screenshot](test_WA.png)
 
-[DEMO](https://lowlifeboy.github.io/travels-company-website)
+[DEMO](https://lowlifeboy.github.io/travels-company-website/index.html)
